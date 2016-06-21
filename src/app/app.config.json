@@ -1,0 +1,13 @@
+{
+  "appname": "AdminWeb-CaddyShack",
+  "ocscope": "FullAccess",
+  "clientid": "56981E61-3665-4BA1-AC04-DC49E63D4995",
+  "buyerid": "Golfsmith",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
